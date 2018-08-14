@@ -1,0 +1,7 @@
+<Files index2.html>
+  AuthUserFile /.htpasswd
+  AuthGroupFile /dev/null
+  AuthName "Encrypt"
+  AuthType Basic
+  Require valid-user
+</File>
